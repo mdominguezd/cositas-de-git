@@ -6,3 +6,5 @@ Este es un repositorio para la clase de Metodos Computacionales
 * Una
 * Lista
 
+## Datos del autor
+Soy Martin y tengo 23
