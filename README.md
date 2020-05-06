@@ -15,3 +15,6 @@ Soy Martin y tengo 23. Se modificar un README desde anaconda.
 
 ![imagen de un ojo](https://s3.amazonaws.com/cdn.wp.m4ecnet/wp-content/uploads/2018/01/16095118/Depositphotos_3667865_m-2015-compressor.jpg)
 
+## Datos del colaborador
+Soy Carlos y nací en 1999 y estudio física en la universidad de los Andes
+
