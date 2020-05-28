@@ -8,8 +8,8 @@ using namespace std;
 
 int main(void){
 	
-	int Tfinal = 4;
-	float paso = 0.1;
+	double Tfinal = 4.48;
+	float paso = 0.01;
 	
 	int N = Tfinal/paso;
 	
